@@ -1,3 +1,5 @@
-<h1>Hello, THIS IS SAMUEL OLUWATOBI PORTOFOLIO</h1>
-<p>I AM A STRUCTURUAL ENGINEER.</p>
-   my achievement as an engineer are as follows
+<h1>SAMUEL OLUWATOBI</h1>
+<h2>STRUCTURAL ENGINEER</h2>
+<p>7,Shoyomokun,Surulere,Lagos {samopsp2@yahoo.com}</p>
+  *GENDER:* MALE  
+   *NATIONALITY:*NIGERIAN
