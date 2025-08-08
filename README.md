@@ -4,19 +4,21 @@
 <P><B>GENDER:MALE</B></P>
 <P><B>NATIONALITY:NIGERIAN</B></P>
  <P><U><B>HERE ARE MY <MARK>ACHIEVEMENTS</MARK></B></U></P>
-  <!DOCTYPE html>
+  <B>SKILL</B>
 <html>
 <head>
     <title>Bullet Points Example</title>
 </head>
 <body>
-    <h2>My Favorite Fruits</h2>
+    <h2>PROFESSIONAL SKILLS</h2>
     <ul>
-        <li>Apple</li>
-        <li>Banana</li>
-        <li>Cherry</li>
+        <li>EXCELLENT COMMUNICATION SKILL</li>
+        <li>GOOD LEADERSHIP SKILLS</li>
+        <li>GOOD WRITING SKILLS</li>
+        <li>PUBLIC SPEAKING SKILLS</li>
+        <li>CREATIVE THINKING SKILSS</li>
     </ul>
 </body>
 </html>
-
-  
+    <title>Bullet Points Example</title>
+    
