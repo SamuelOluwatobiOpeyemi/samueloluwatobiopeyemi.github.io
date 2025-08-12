@@ -40,7 +40,7 @@
      <B>Higher National Diploma(H.N.D)</B>
      <p><B>National diploma (N.D)</B></p>
      <h2><B>WORK EXPERIENCE</B></h2>
-<B>SOLAR FEYBA LIMITED</B>
+<h1><p><B>SOLAR FEYBA LIMITED</B></p></h1>
      <p>structural Engineer/partner(2024-present)</p>
         <p>Structural Engineering Design,Detailing and Site Supervision of building project such as :</p>
      <ul>
@@ -48,18 +48,38 @@
          <li> Mixed used building project in ikoyi, by Grazia Villas LTD</li>
          <li>LAGOS STATE FIRE STATION </li>
       AND MANY MORE
-<p><B>Fortune Energy and Engineering company LTD</B></p>
+<h1><p><B>Fortune Energy and Engineering company LTD</B></p></h1>
    <p>junior Engineer</p>
          <ul>
             <li>Advance structural detailing and drafting for PHRC petrochemical Company project on JETTIES Rehabilitation.</li>
             <li>General Arrangement and detailing of steels and concerete piles,piles caps ,mooring systems,fendering systems and he jetty substations</li>
- <B>Civil ACME Ltd</B>
+<h1><p><B>Civil ACME Ltd</B></p></h1>
   <P>structural Engineer (2019-2022)</P>
-      <p>structural Engineering Design,DEtailing and Site supervision of Notable high rise building project:</p>
+  <p>structural Engineering Design,DEtailing and Site supervision of Notable high rise building project:</p>
+    <ul>
+        <li>Cove Tower,15 floors mixed used building designed as a lightweight structure using Polystyrene.</li>
+        <li>God Made Homes;10 floors residential apartment building with 5cm cantilever skab with sunken lounge and a shark tank in osborne foreshore ii,LAGOS.</li>
+        <p>and many more</p>
+<h1><p><B>LANS CONSULT</B></h1></p>
+        <p>junior Engineer (2017-2019)</p>
+        <p>Detailing of all of complex REinforced Concrete structural Elements Such as;</p>
         <ul>
-           <li>Cove Tower,15 floors mixed used building designed as a lightweight structure using Polystyrene.</li>
-           <li>God Made Homes;10 floors residential apartment building with 5cm cantilever skab with sunken lounge and a shark tank in osborne foreshore ii,LAGOS.</li>
-           <p>and many more</p>
+          <li>Retailing wall of different types</li>
+          <li>Lift walls</li>
+          <li>comples stairs details such as helical and spiral stairs</li>
+          <li>Flat,Rib and Waffle slab details</li>
+          <li>Columns and Beans</li>
+          <p>Effective use of CAD RC and a detailing software that enhance good productivity.</p>
+<h1><B>Language Skills</B></h1>
+         <ul>
+           <li>ENGLISH</li>
+           <li>yoruba Language</li>
+<h1><B>Reference</B></h1>
+         <ul>
+           <li>Engr.Solarin Babajide</li>
+              <p><B>Managing director,solar Feyba Limited</p>
+               <p>0806045709</p>
+         </ul>
     </body>
     </head>
 
