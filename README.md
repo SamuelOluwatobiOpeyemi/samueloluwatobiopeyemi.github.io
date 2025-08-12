@@ -1,6 +1,6 @@
 <h1>SAMUEL OLUWATOBI</h1>
 <h2><P5>STRUCTURAL ENGINEER</P5></h2>
-<p>7,Shoyomokun,Surulere,Lagos {samopsp2@yahoo.com}</p><P><B>NO:08102662572</B></P>
+<p><B>7,Shoyomokun,Surulere,Lagos {samopsp2@yahoo.com}</p></B>B><P><B>NO:08102662572</B></P>
 <P><B>GENDER:MALE</B></P>
 <P><B>NATIONALITY:NIGERIAN</B></P>
  <P><U><B>HERE ARE MY <MARK>ACHIEVEMENTS</MARK></B></U></P>
@@ -33,7 +33,8 @@
     <body>
             <h2>EDUCATION</h2>
      Kwara State University(KWASU)
-     Civil and Environmental Engineering   <B>BACHELORS OF ENGINEERING(B.ENG)</B>
+     <h1>Civil and Environmental Engineering</h1>  
+     <B>BACHELORS OF ENGINEERING(B.ENG)</B>
     </body>
     </head>
 
