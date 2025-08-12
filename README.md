@@ -1,6 +1,7 @@
 <h1>SAMUEL OLUWATOBI</h1>
 <h2><P5>STRUCTURAL ENGINEER</P5></h2>
-<p><B>7,Shoyomokun,Surulere,Lagos {samopsp2@yahoo.com}</p></B>B><P><B>NO:08102662572</B></P>
+<p><B>7,Shoyomokun,Surulere,Lagos {samopsp2@yahoo.com}</p></B>
+<P><B>NO:08102662572</B></P>
 <P><B>GENDER:MALE</B></P>
 <P><B>NATIONALITY:NIGERIAN</B></P>
  <P><U><B>HERE ARE MY <MARK>ACHIEVEMENTS</MARK></B></U></P>
