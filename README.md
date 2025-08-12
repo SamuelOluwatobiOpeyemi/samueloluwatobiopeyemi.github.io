@@ -4,7 +4,7 @@
 <P><B>NO:08102662572</B></P>
 <P><B>GENDER:MALE</B></P>
 <P><B>NATIONALITY:NIGERIAN</B></P>
- <P><U><B>HERE ARE MY <MARK>ACHIEVEMENTS</MARK></B></U></P>
+ <P><B>HERE ARE MY ACHIEVEMENTS</B></P>
        <h3><B>SKILL</B></h3>
 <html>
 <head>
@@ -27,9 +27,6 @@
        <li>ORION</li>
        <li>PROTA STRUCTURE</li>
        <li>TEKLA STRUCTURE</li>
-</body>
-</html>
-    <title>Bullet Points Example</title>
 <head>
 <body>
  <title>Bullet point examples</title>
