@@ -32,10 +32,10 @@
     <head>
     <body>
             <h2>EDUCATION</h2>
-     <NEW TIMES ROMAN><B>Kwara State University(KWASU)</B></NEW TIMES ROMAN>
-     <h2>Civil and Environmental Engineering</h2>  
+     <h1><B>Kwara State University(KWASU)</B></h1>
+     <p><B>Civil and Environmental Engineering</p></B>  
      <B>BACHELORS OF ENGINEERING(B.ENG)</B>
-     <p><poppins><B>The polythenic,Ibadan</B></poppins></p>
+     <h1><p><poppins><B>The Polythenic,Ibadan</B></poppins></p></h1>
      <p><h2>Civil Engineering</h2></p>
      <B>Higher National Diploma(H.N.D)</B>
      <p><B>National diploma (N.D)</B></p>
