@@ -48,6 +48,18 @@
          <li> Mixed used building project in ikoyi, by Grazia Villas LTD</li>
          <li>LAGOS STATE FIRE STATION </li>
       AND MANY MORE
+<p><B>Fortune Energy and Engineering company LTD</B></p>
+   <p>junior Engineer</p>
+         <ul>
+            <li>Advance structural detailing and drafting for PHRC petrochemical Company project on JETTIES Rehabilitation.</li>
+            <li>General Arrangement and detailing of steels and concerete piles,piles caps ,mooring systems,fendering systems and he jetty substations</li>
+ <B>Civil ACME Ltd</B>
+  <P>structural Engineer (2019-2022)</P>
+      <p>structural Engineering Design,DEtailing and Site supervision of Notable high rise building project:</p>
+        <ul>
+           <li>Cove Tower,15 floors mixed used building designed as a lightweight structure using Polystyrene.</li>
+           <li>God Made Homes;10 floors residential apartment building with 5cm cantilever skab with sunken lounge and a shark tank in osborne foreshore ii,LAGOS.</li>
+           <p>and many more</p>
     </body>
     </head>
 
