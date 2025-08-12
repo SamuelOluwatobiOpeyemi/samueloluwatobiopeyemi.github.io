@@ -31,6 +31,7 @@
     <title>Bullet Points Example</title>
 <head>
 <body>
+ <title>Bullet point examples</title>
 <html>
 <head>
 <h2>EDUCATION</h2>
