@@ -32,13 +32,15 @@
     <head>
     <body>
             <h2>EDUCATION</h2>
-     <h1><B>Kwara State University(KWASU)</B></h1>
-     <B>Civil and Environmental Engineering</B>: 
-     <B>BACHELORS OF ENGINEERING(B.ENG)</B>
-     <h1><p><poppins><B>The Polythenic,Ibadan</B></poppins></p></h1>
-     <p>Civil Engineering</p>
-     <B>Higher National Diploma(H.N.D)</B>
-     <p><B>National diploma (N.D)</B></p>
+<h1><B>Kwara State University(KWASU)</B></h1>
+<B>Civil and Environmental Engineering</B>: 
+ <B>BACHELORS OF ENGINEERING(B.ENG)</B>
+<h1><p><poppins><B>The Polythenic,Ibadan</B></poppins></p></h1>
+ <p>Civil Engineering</p>
+   <ul>
+    <li>Higher National Diploma(H.N.D)</li>
+     <li>National diploma (N.D)</li>
+   </ul>
      <h2><B>WORK EXPERIENCE</B></h2>
 <h1><p><B>SOLAR FEYBA LIMITED</B></p></h1>
      <p>structural Engineer/partner(2024-present)</p>
