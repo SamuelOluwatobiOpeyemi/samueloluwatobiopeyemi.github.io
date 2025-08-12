@@ -33,13 +33,21 @@
     <body>
             <h2>EDUCATION</h2>
      <h1><B>Kwara State University(KWASU)</B></h1>
-     <p><B>Civil and Environmental Engineering</p></B>  
+     <B>Civil and Environmental Engineering</B>: 
      <B>BACHELORS OF ENGINEERING(B.ENG)</B>
      <h1><p><poppins><B>The Polythenic,Ibadan</B></poppins></p></h1>
-     <p><h2>Civil Engineering</h2></p>
+     <p>Civil Engineering</p>
      <B>Higher National Diploma(H.N.D)</B>
      <p><B>National diploma (N.D)</B></p>
-     
+     <h2><B>WORK EXPERIENCE</B></h2>
+<B>SOLAR FEYBA LIMITED</B>
+     <p>structural Engineer/partner(2024-present)</p>
+        <p>Structural Engineering Design,Detailing and Site Supervision of building project such as :</p>
+     <ul>
+         <li>N.Y.S.C, proposeed permanent site project</li>
+         <li> Mixed used building project in ikoyi, by Grazia Villas LTD</li>
+         <li>LAGOS STATE FIRE STATION </li>
+      AND MANY MORE
     </body>
     </head>
 
