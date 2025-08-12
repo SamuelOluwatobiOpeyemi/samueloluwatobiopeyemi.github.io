@@ -66,7 +66,7 @@
  <li>Cove Tower,15 floors mixed used building designed as a lightweight structure using Polystyrene.</li>
  <li>God Made Homes;10 floors residential apartment building with 5cm cantilever skab with sunken lounge and a shark tank in osborne foreshore ii,LAGOS.</li>
   <p>and many more</p>
-<h1>LANS CONULTS</h1>
+<h1><P><B>LANS CONULTS</h1></B></P>
 <p>junior Engineer (2017-2019)</p>
 <p>Detailing of all of complex REinforced Concrete structural Elements Such as;</p>
   <ul>
