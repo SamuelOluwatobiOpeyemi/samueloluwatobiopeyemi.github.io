@@ -32,9 +32,14 @@
     <head>
     <body>
             <h2>EDUCATION</h2>
-     Kwara State University(KWASU)
-     <h1>Civil and Environmental Engineering</h1>  
+     <poppins><B>Kwara State University(KWASU)</B></poppins>
+     <h2>Civil and Environmental Engineering</h2>  
      <B>BACHELORS OF ENGINEERING(B.ENG)</B>
+     <poppins><B>The polythenic,Ibadan</B></poppins>
+     <h2>Civil Engineering</h2>
+     <B>Higher National Diploma(H.N.D)</B>
+     <B>National diploma (N.D)</B>
+     
     </body>
     </head>
 
