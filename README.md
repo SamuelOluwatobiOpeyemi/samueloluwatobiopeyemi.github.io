@@ -86,10 +86,7 @@
   <li>Engr.Solarin Babajide</li>
   <p><B>Managing director,solar Feyba Limited</p>
       <p>0806045709</p>
-   </ul>
-   </html>
-   </head>
-  </body>
-  </head>
+ </ul>
+ 
 
     
