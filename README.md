@@ -31,7 +31,7 @@
     <title>Bullet Points Example</title>
 <head>
 <body>
-            <h2>EDUCATION</h2>
+   <h2>EDUCATION</h2>
 <h1><B>Kwara State University(KWASU)</B></h1>
 <B>Civil and Environmental Engineering</B>:
      <ul>
