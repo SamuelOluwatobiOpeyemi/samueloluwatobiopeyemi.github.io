@@ -45,7 +45,7 @@
   <li>National diploma (N.D)</li>
  </ul>
   <h2><B>WORK EXPERIENCE</B></h2>
-<h1><p><B>SOLAR FEYBA LIMITED</B></p></h1>
+<h1><p>SOLAR FEYBA LIMITED</p></h1>
    <p>structural Engineer/partner(2024-present)</p>
    <p>Structural Engineering Design,Detailing and Site Supervision of building project such as:</p>
    <ul>
