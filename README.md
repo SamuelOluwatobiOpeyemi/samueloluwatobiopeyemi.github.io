@@ -70,23 +70,23 @@
 <p>junior Engineer (2017-2019)</p>
 <p>Detailing of all of complex REinforced Concrete structural Elements Such as;</p>
   <ul>
-  <li>Retailing wall of different types</li>
-  <li>Lift walls</li>
-  <li>comples stairs details such as helical and spiral stairs</li>
-  <li>Flat,Rib and Waffle slab details</li>
-  <li>Columns and Beans</li>
- <p>Effective use of CAD RC and a detailing software that enhance good productivity.</p>
+<li>Retailing wall of different types</li>
+<li>Lift walls</li>
+<li>comples stairs details such as helical and spiral stairs</li>
+<li>Flat,Rib and Waffle slab details</li>
+<li>Columns and Beans</li>
+<p>Effective use of CAD RC and a detailing software that enhance good productivity.</p>
 <h1><B>Language Skills</B></h1>
-  <ul>
-  <li>ENGLISH</li>
-  <li>yoruba Language</li>
-  </ul>
+ <ul>
+<li>ENGLISH</li>
+<li>yoruba Language</li>
+ </ul>
 <h1><B>Reference</B></h1>
-  <ul>
-  <li>Engr.Solarin Babajide</li>
-  </ul>
-  <p><B>Managing director,solar Feyba Limited</p>
-      <p>0806045709</p>
+ <ul>
+<li>Engr.Solarin Babajide</li>
+</ul>
+ <p>Managing director,solar Feyba Limited</p>
+    <p>0806045709</p>
  
  
 
