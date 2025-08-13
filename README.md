@@ -29,7 +29,7 @@
        <li>TEKLA STRUCTURE</li>
 <head>
 <body>
- <title>Bullet point examples</title>
+<title>Bullet point examples</title>
 <html>
 <head>
 <h2>EDUCATION</h2>
