@@ -5,7 +5,7 @@
 <P><B>GENDER:MALE</B></P>
 <P><B>NATIONALITY:NIGERIAN</B></P>
  <P><B>HERE ARE MY ACHIEVEMENTS</B></P>
-       <mark><yellow><h3><B>SKILL</B></h3></yellow></mark>
+       <MARK><yellow><h3><B>SKILL</B></h3></yellow></MARK>
 <html>
 <head>
     <title>Bullet Points Example</title>
