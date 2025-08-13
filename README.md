@@ -82,7 +82,7 @@
 </ul>
  <p>Managing director,solar Feyba Limited</p>
     <p>0806045709</p>
-  
+  </body>  
  
 
     
