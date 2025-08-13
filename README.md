@@ -1,11 +1,11 @@
 <h1>SAMUEL OLUWATOBI</h1>
-<h2><P5>STRUCTURAL ENGINEER</P5></h2>
-<p><B>7,Shoyomokun,Surulere,Lagos {samopsp2@yahoo.com}</p></B>
+<h2><p>STRUCTURAL ENGINEER</p></h2>
+<p><B>7,Shoyomokun,Surulere,Lagos {samopsp2@yahoo.com} </p></B>
 <P><B>NO:08102662572</B></P>
 <P><B>GENDER:MALE</B></P>
 <P><B>NATIONALITY:NIGERIAN</B></P>
 <P><B>HERE ARE MY ACHIEVEMENTS</B></P>
-       <MARK><yellow><h3><B>SKILL</B></h3></yellow></MARK>
+<MARK><yellow><h3><B>SKILL</B></h3></yellow></MARK>
 <html>
 <head>
     <title>Bullet Points Example</title>
@@ -27,11 +27,6 @@
        <li>ORION</li>
        <li>PROTA STRUCTURE</li>
        <li>TEKLA STRUCTURE</li>
-<head>
-<body>
-<title>Bullet point examples</title>
-<html>
-<head>
 <h2>EDUCATION</h2>
 <h1><B>Kwara State University(KWASU)</B></h1>
 <B>Civil and Environmental Engineering</B>:
@@ -87,7 +82,7 @@
 </ul>
  <p>Managing director,solar Feyba Limited</p>
     <p>0806045709</p>
- 
+  
  
 
     
